@@ -1,0 +1,45 @@
+{
+    "coord": {
+        "lon": 36.25,
+        "lat": 36.5
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "a\u00e7\u0131k",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 18.41,
+        "feels_like": 17.61,
+        "temp_min": 14.89,
+        "temp_max": 18.41,
+        "pressure": 1016,
+        "humidity": 50,
+        "sea_level": 1016,
+        "grnd_level": 964
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 6.17,
+        "deg": 220
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1760623772,
+    "sys": {
+        "type": 1,
+        "id": 7008,
+        "country": "TR",
+        "sunrise": 1760586170,
+        "sunset": 1760626677
+    },
+    "timezone": 10800,
+    "id": 312394,
+    "name": "Hatay",
+    "cod": 200
+}
